@@ -1,0 +1,46 @@
+<HTML>
+	<title>
+	
+	</title>
+	
+	<head>
+	<H2><CENTER><U>EMPLEADO</U></CENTER></H2>
+	</head>
+
+	<body bgcolor="">
+	<center>
+	<table border ="">
+	
+	<tr>
+		<!etiqueta th centra y pone en negrita el titulo>
+		<th bgcolor="#669966"><b><CENTER> apellidos</CENTER></b></th>
+		<th bgcolor="#669966"><b><CENTER> nombres </CENTER></b></th>
+		<th bgcolor="#669966"><b><CENTER> edad </CENTER></b></th>
+		<th bgcolor="#669966"><b><CENTER> fecha de nacimiento </CENTER></b></th>
+	</tr>
+	
+	<tr>
+		<td colspan=2><center> datos personales </center></td>
+		<td> 45 </td>
+		<td rowspan=2>12 de mayo de 1983 </td>
+		
+	</tr>
+	
+	<tr>
+		<td> <center> juares </center></td>
+		<td><center> carlos </center></td>
+		<td><center> 15 antiguedad </center></td>
+		
+	</tr>
+	
+	<tr>
+		<td>190 hs trabajadas</td>
+		<td colspan=2>empleado administrativo</td>
+		<td> 12/05/1983</td>
+	</tr>
+
+	
+	</table>
+	
+	</body>
+</HTML>
